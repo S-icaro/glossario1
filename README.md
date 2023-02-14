@@ -53,8 +53,12 @@ muito exagerado ou interesse
                                         #title inglês
 
  G
- Glossary
+ **Glossary**
  lista alfabetica estilo dicionário, geralmente com suas palavras
+
+ P
+ **Purpose**
+  próposito
 
 
 
