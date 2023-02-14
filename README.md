@@ -51,14 +51,27 @@ muito exagerado ou interesse
                                              
 
                                         #title inglês
+ F 
+**Flow**
+ fluxo 
 
  G
  **Glossary**
  lista alfabetica estilo dicionário, geralmente com suas palavras
 
+ H 
+ **Hacker**
+pessoa com grande conhecimento em informatica que se dedica a encontrar falhas em sistemas etc
+
  P
  **Purpose**
-  próposito
+ próposito
+
+ o
+ **Objectiv**
+ Objetivo
+  
+ 
 
 
 
