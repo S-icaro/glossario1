@@ -4,49 +4,59 @@
 
 
 A
-#Ascético
+**Ascético**
 Crescimetno Espiritual
 
-#Assoalho
+**Assoalho**
 Piso de madeira
 
 B
-#Balaústre
+**Balaústre**
 Suporte de cerca
 
 C
-#chistoso
+**chistoso**
 engraçado
 
 D
-#diáfono
-#dissentir
+**diáfono**
+som abafado
+
+**dissentir**
+Não concordar
 
 E
-#empalidecer
+**empalidecer**
 perder cor desbotar
 
-
 H
-#Hemerticamente
+**Hemerticamente**
 Muito bem fechado
 
 N
-#Ninharia
+**Ninharia**
 algo muito pequeno
 
-#Nitido
+**Nitido**
 algo que pode se ver muito bem
 
 P
-#praguejar
+**praguejar**
 almadiçoar
 
 V
-#veemência
+**veemência**
 muito exagerado ou interesse
 
                                              
 
                                         #title inglês
+
+ G
+ Glossary
+ lista alfabetica estilo dicionário, geralmente com suas palavras
+
+
+
+ 
 
